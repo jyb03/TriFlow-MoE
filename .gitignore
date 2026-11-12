@@ -1,0 +1,25 @@
+﻿# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Notebook and OS metadata
+.ipynb_checkpoints/
+.DS_Store
+
+# Logs and local environments
+*.log
+.venv/
+venv/
+env/
+
+# Research data and model artifacts
+data/
+checkpoints/
+
+# Build and test outputs
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
